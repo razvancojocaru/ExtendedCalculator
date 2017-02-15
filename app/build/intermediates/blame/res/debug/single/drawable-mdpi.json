@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/razvan/Git/ExtendedCalculator/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_patch.9.png",
+        "source": "/home/razvan/Git/ExtendedCalculator/app/src/main/res/drawable-mdpi/btn_patch.9.png"
+    },
+    {
+        "merged": "/home/razvan/Git/ExtendedCalculator/app/build/intermediates/res/merged/debug/drawable-mdpi/screen_patch.9.png",
+        "source": "/home/razvan/Git/ExtendedCalculator/app/src/main/res/drawable-mdpi/screen_patch.9.png"
+    }
+]
